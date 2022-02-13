@@ -6,7 +6,7 @@ npm install
 ```
 ## Run [JSON-Server](https://github.com/typicode/json-server):
 ```
-json-server --watch src\db.json --port 3001
+json-server --watch src/db.json --port 3001
 ```
 
 ## Open another and terminal run bottom command:
